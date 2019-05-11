@@ -1,4 +1,4 @@
-="""Web Scraping is fun , You can take all data you need or you want on a certain website
+"""Web Scraping is fun , You can take all data you need or you want on a certain website
 especially if the website api's doesn't support the data that you needed or the website
 doesn't have any api, but be careful about the terms and conditions of the website"""
 
